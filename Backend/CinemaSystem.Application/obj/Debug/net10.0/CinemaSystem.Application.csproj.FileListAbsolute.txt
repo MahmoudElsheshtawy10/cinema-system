@@ -1,0 +1,15 @@
+E:\cinema system\Backend\CinemaSystem.Application\obj\Debug\net10.0\CinemaSystem.Application.csproj.AssemblyReference.cache
+E:\cinema system\Backend\CinemaSystem.Application\obj\Debug\net10.0\CinemaSystem.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\cinema system\Backend\CinemaSystem.Application\obj\Debug\net10.0\CinemaSystem.Application.AssemblyInfoInputs.cache
+E:\cinema system\Backend\CinemaSystem.Application\obj\Debug\net10.0\CinemaSystem.Application.AssemblyInfo.cs
+E:\cinema system\Backend\CinemaSystem.Application\obj\Debug\net10.0\CinemaSystem.Application.csproj.CoreCompileInputs.cache
+e:\cinema system\Backend\CinemaSystem.Application\bin\Debug\net10.0\CinemaSystem.Application.deps.json
+E:\cinema system\Backend\CinemaSystem.Application\bin\Debug\net10.0\CinemaSystem.Application.dll
+E:\cinema system\Backend\CinemaSystem.Application\bin\Debug\net10.0\CinemaSystem.Application.pdb
+E:\cinema system\Backend\CinemaSystem.Application\bin\Debug\net10.0\CinemaSystem.Domain.dll
+E:\cinema system\Backend\CinemaSystem.Application\bin\Debug\net10.0\CinemaSystem.Domain.pdb
+e:\cinema system\Backend\CinemaSystem.Application\obj\Debug\net10.0\CinemaSy.08A11658.Up2Date
+E:\cinema system\Backend\CinemaSystem.Application\obj\Debug\net10.0\CinemaSystem.Application.dll
+E:\cinema system\Backend\CinemaSystem.Application\obj\Debug\net10.0\refint\CinemaSystem.Application.dll
+E:\cinema system\Backend\CinemaSystem.Application\obj\Debug\net10.0\CinemaSystem.Application.pdb
+e:\cinema system\Backend\CinemaSystem.Application\obj\Debug\net10.0\ref\CinemaSystem.Application.dll

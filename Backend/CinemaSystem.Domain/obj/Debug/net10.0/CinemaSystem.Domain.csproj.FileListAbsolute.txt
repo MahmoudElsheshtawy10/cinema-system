@@ -1,0 +1,11 @@
+E:\cinema system\Backend\CinemaSystem.Domain\bin\Debug\net10.0\CinemaSystem.Domain.deps.json
+E:\cinema system\Backend\CinemaSystem.Domain\bin\Debug\net10.0\CinemaSystem.Domain.dll
+E:\cinema system\Backend\CinemaSystem.Domain\bin\Debug\net10.0\CinemaSystem.Domain.pdb
+E:\cinema system\Backend\CinemaSystem.Domain\obj\Debug\net10.0\CinemaSystem.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\cinema system\Backend\CinemaSystem.Domain\obj\Debug\net10.0\CinemaSystem.Domain.AssemblyInfoInputs.cache
+E:\cinema system\Backend\CinemaSystem.Domain\obj\Debug\net10.0\CinemaSystem.Domain.AssemblyInfo.cs
+E:\cinema system\Backend\CinemaSystem.Domain\obj\Debug\net10.0\CinemaSystem.Domain.csproj.CoreCompileInputs.cache
+E:\cinema system\Backend\CinemaSystem.Domain\obj\Debug\net10.0\CinemaSystem.Domain.dll
+E:\cinema system\Backend\CinemaSystem.Domain\obj\Debug\net10.0\refint\CinemaSystem.Domain.dll
+E:\cinema system\Backend\CinemaSystem.Domain\obj\Debug\net10.0\CinemaSystem.Domain.pdb
+E:\cinema system\Backend\CinemaSystem.Domain\obj\Debug\net10.0\ref\CinemaSystem.Domain.dll
