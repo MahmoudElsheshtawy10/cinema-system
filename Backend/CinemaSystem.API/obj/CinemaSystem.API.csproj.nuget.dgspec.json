@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\cinema system\\Backend\\CinemaSystem.API\\CinemaSystem.API.csproj": {}
+    "e:\\cinema system\\Backend\\CinemaSystem.API\\CinemaSystem.API.csproj": {}
   },
   "projects": {
-    "E:\\cinema system\\Backend\\CinemaSystem.API\\CinemaSystem.API.csproj": {
+    "e:\\cinema system\\Backend\\CinemaSystem.API\\CinemaSystem.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\cinema system\\Backend\\CinemaSystem.API\\CinemaSystem.API.csproj",
+        "projectUniqueName": "e:\\cinema system\\Backend\\CinemaSystem.API\\CinemaSystem.API.csproj",
         "projectName": "CinemaSystem.API",
-        "projectPath": "E:\\cinema system\\Backend\\CinemaSystem.API\\CinemaSystem.API.csproj",
+        "projectPath": "e:\\cinema system\\Backend\\CinemaSystem.API\\CinemaSystem.API.csproj",
         "packagesPath": "C:\\Users\\641578\\.nuget\\packages\\",
-        "outputPath": "E:\\cinema system\\Backend\\CinemaSystem.API\\obj\\",
+        "outputPath": "e:\\cinema system\\Backend\\CinemaSystem.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,11 +33,11 @@
             "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {
-              "E:\\cinema system\\Backend\\CinemaSystem.Application\\CinemaSystem.Application.csproj": {
-                "projectPath": "E:\\cinema system\\Backend\\CinemaSystem.Application\\CinemaSystem.Application.csproj"
+              "e:\\cinema system\\Backend\\CinemaSystem.Application\\CinemaSystem.Application.csproj": {
+                "projectPath": "e:\\cinema system\\Backend\\CinemaSystem.Application\\CinemaSystem.Application.csproj"
               },
-              "E:\\cinema system\\Backend\\CinemaSystem.Infrastructure\\CinemaSystem.Infrastructure.csproj": {
-                "projectPath": "E:\\cinema system\\Backend\\CinemaSystem.Infrastructure\\CinemaSystem.Infrastructure.csproj"
+              "e:\\cinema system\\Backend\\CinemaSystem.Infrastructure\\CinemaSystem.Infrastructure.csproj": {
+                "projectPath": "e:\\cinema system\\Backend\\CinemaSystem.Infrastructure\\CinemaSystem.Infrastructure.csproj"
               }
             }
           }
@@ -519,14 +519,14 @@
         }
       }
     },
-    "E:\\cinema system\\Backend\\CinemaSystem.Application\\CinemaSystem.Application.csproj": {
+    "e:\\cinema system\\Backend\\CinemaSystem.Application\\CinemaSystem.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\cinema system\\Backend\\CinemaSystem.Application\\CinemaSystem.Application.csproj",
+        "projectUniqueName": "e:\\cinema system\\Backend\\CinemaSystem.Application\\CinemaSystem.Application.csproj",
         "projectName": "CinemaSystem.Application",
-        "projectPath": "E:\\cinema system\\Backend\\CinemaSystem.Application\\CinemaSystem.Application.csproj",
+        "projectPath": "e:\\cinema system\\Backend\\CinemaSystem.Application\\CinemaSystem.Application.csproj",
         "packagesPath": "C:\\Users\\641578\\.nuget\\packages\\",
-        "outputPath": "E:\\cinema system\\Backend\\CinemaSystem.Application\\obj\\",
+        "outputPath": "e:\\cinema system\\Backend\\CinemaSystem.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -548,8 +548,8 @@
             "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {
-              "E:\\cinema system\\Backend\\CinemaSystem.Domain\\CinemaSystem.Domain.csproj": {
-                "projectPath": "E:\\cinema system\\Backend\\CinemaSystem.Domain\\CinemaSystem.Domain.csproj"
+              "e:\\cinema system\\Backend\\CinemaSystem.Domain\\CinemaSystem.Domain.csproj": {
+                "projectPath": "e:\\cinema system\\Backend\\CinemaSystem.Domain\\CinemaSystem.Domain.csproj"
               }
             }
           }
@@ -882,14 +882,14 @@
         }
       }
     },
-    "E:\\cinema system\\Backend\\CinemaSystem.Domain\\CinemaSystem.Domain.csproj": {
+    "e:\\cinema system\\Backend\\CinemaSystem.Domain\\CinemaSystem.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\cinema system\\Backend\\CinemaSystem.Domain\\CinemaSystem.Domain.csproj",
+        "projectUniqueName": "e:\\cinema system\\Backend\\CinemaSystem.Domain\\CinemaSystem.Domain.csproj",
         "projectName": "CinemaSystem.Domain",
-        "projectPath": "E:\\cinema system\\Backend\\CinemaSystem.Domain\\CinemaSystem.Domain.csproj",
+        "projectPath": "e:\\cinema system\\Backend\\CinemaSystem.Domain\\CinemaSystem.Domain.csproj",
         "packagesPath": "C:\\Users\\641578\\.nuget\\packages\\",
-        "outputPath": "E:\\cinema system\\Backend\\CinemaSystem.Domain\\obj\\",
+        "outputPath": "e:\\cinema system\\Backend\\CinemaSystem.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1223,14 +1223,14 @@
         }
       }
     },
-    "E:\\cinema system\\Backend\\CinemaSystem.Infrastructure\\CinemaSystem.Infrastructure.csproj": {
+    "e:\\cinema system\\Backend\\CinemaSystem.Infrastructure\\CinemaSystem.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\cinema system\\Backend\\CinemaSystem.Infrastructure\\CinemaSystem.Infrastructure.csproj",
+        "projectUniqueName": "e:\\cinema system\\Backend\\CinemaSystem.Infrastructure\\CinemaSystem.Infrastructure.csproj",
         "projectName": "CinemaSystem.Infrastructure",
-        "projectPath": "E:\\cinema system\\Backend\\CinemaSystem.Infrastructure\\CinemaSystem.Infrastructure.csproj",
+        "projectPath": "e:\\cinema system\\Backend\\CinemaSystem.Infrastructure\\CinemaSystem.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\641578\\.nuget\\packages\\",
-        "outputPath": "E:\\cinema system\\Backend\\CinemaSystem.Infrastructure\\obj\\",
+        "outputPath": "e:\\cinema system\\Backend\\CinemaSystem.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1252,11 +1252,11 @@
             "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {
-              "E:\\cinema system\\Backend\\CinemaSystem.Application\\CinemaSystem.Application.csproj": {
-                "projectPath": "E:\\cinema system\\Backend\\CinemaSystem.Application\\CinemaSystem.Application.csproj"
+              "e:\\cinema system\\Backend\\CinemaSystem.Application\\CinemaSystem.Application.csproj": {
+                "projectPath": "e:\\cinema system\\Backend\\CinemaSystem.Application\\CinemaSystem.Application.csproj"
               },
-              "E:\\cinema system\\Backend\\CinemaSystem.Domain\\CinemaSystem.Domain.csproj": {
-                "projectPath": "E:\\cinema system\\Backend\\CinemaSystem.Domain\\CinemaSystem.Domain.csproj"
+              "e:\\cinema system\\Backend\\CinemaSystem.Domain\\CinemaSystem.Domain.csproj": {
+                "projectPath": "e:\\cinema system\\Backend\\CinemaSystem.Domain\\CinemaSystem.Domain.csproj"
               }
             }
           }

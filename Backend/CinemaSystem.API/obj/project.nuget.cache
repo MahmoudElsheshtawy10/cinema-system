@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VsTtu0osvMQ=",
+  "dgSpecHash": "tv2s6jWtVd4=",
   "success": true,
-  "projectFilePath": "E:\\cinema system\\Backend\\CinemaSystem.API\\CinemaSystem.API.csproj",
+  "projectFilePath": "e:\\cinema system\\Backend\\CinemaSystem.API\\CinemaSystem.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\641578\\.nuget\\packages\\azure.core\\1.50.0\\azure.core.1.50.0.nupkg.sha512",
     "C:\\Users\\641578\\.nuget\\packages\\azure.identity\\1.17.1\\azure.identity.1.17.1.nupkg.sha512",

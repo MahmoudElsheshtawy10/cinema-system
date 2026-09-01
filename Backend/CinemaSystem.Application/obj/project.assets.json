@@ -489,8 +489,8 @@
           "framework": "net10.0",
           "targetAlias": "net10.0",
           "projectReferences": {
-            "E:\\cinema system\\Backend\\CinemaSystem.Domain\\CinemaSystem.Domain.csproj": {
-              "projectPath": "E:\\cinema system\\Backend\\CinemaSystem.Domain\\CinemaSystem.Domain.csproj"
+            "e:\\cinema system\\Backend\\CinemaSystem.Domain\\CinemaSystem.Domain.csproj": {
+              "projectPath": "e:\\cinema system\\Backend\\CinemaSystem.Domain\\CinemaSystem.Domain.csproj"
             }
           }
         }
